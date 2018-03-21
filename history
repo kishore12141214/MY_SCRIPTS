@@ -1,0 +1,15 @@
+  857  echo $MYVAR
+  858  echo "hello $MYVAr"
+  859  echo "hello $MYVAR"
+  860  echo "hello /$MYVAR"
+  861  echo "hello \$MYVAR"
+  862  echo 'hello $MYVAR'
+  863  cd 
+  864  ls
+  865  cd training/script/
+  866  history
+  867  history >> historyforsinglequetaion 
+  868  ls
+  869  vi historyforsinglequetaion 
+  870  history | tail 15 >> history
+  871  history | tail -15 >> history

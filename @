@@ -1,0 +1,12 @@
+#!/usr/bin/python2.7
+
+MSG = "hello good morning  daling "
+
+for HI in MSG:
+
+
+    if HI in 'n':
+      # print HI
+
+       break 
+print "this is the message ",' HI

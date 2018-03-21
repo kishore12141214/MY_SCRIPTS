@@ -1,0 +1,20 @@
+mysqldump started at 13-03-2018 17:00:11
+mysqldump finished at 13-03-2018 17:00:11
+file permission changed
+old files deletes
+operation finished at 13-03-2018 17:00:11
+mysqldump started at 13-03-2018 17:01:57
+mysqldump finished at 13-03-2018 17:01:57
+file permission changed
+old files deletes
+operation finished at 13-03-2018 17:01:57
+mysqldump started at 13-03-2018 17:03:24
+mysqldump finished at 13-03-2018 17:03:24
+file permission changed
+old files deletes
+operation finished at 13-03-2018 17:03:24
+mysqldump started at 13-03-2018 17:08:38
+mysqldump finished at 13-03-2018 17:08:38
+file permission changed
+old files deletes
+operation finished at 13-03-2018 17:08:38

@@ -1,0 +1,24 @@
+from fabric.api import *
+
+def printinfo():
+    print "this is my first fabric"
+
+
+
+def sysinfo():
+    print "class"
+
+
+def httpd():
+    sudo("yum install httpd -y")
+
+
+def httpdrestart():
+
+    sudo("service sshd restart")
+
+#def weburl(raw_input("enter the value") name="url", capture=True):
+ #   sudo("wget -O kishore.zip ", url)
+
+#def unzip():
+   # sudo("unzip" )

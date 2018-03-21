@@ -1,0 +1,26 @@
+from fabric.api import *
+
+#def printinfo():
+   # print "this is my first fabric"
+
+
+
+def sysinfo():
+    print "class"
+
+def update():
+    sudo("yum update")
+
+def httpd():
+    sudo("yum install httpd* -y")
+
+
+def httpdrestart():
+    sudo("service httpd restart")
+
+def weburl():
+   url=sudo(input(url), capture=True)
+   sudo("wget -O kishore.zip ", url)
+
+#def unzip():
+   # sudo("unzip" )

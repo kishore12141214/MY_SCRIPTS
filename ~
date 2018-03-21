@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+#################################################
+#################################################
+
+echo installing apache2 with templet
+
+package=apache2
+
+
+apt-get install $package
+
+
+sudo wget -O tooplate.zip  http://www.tooplate.com/download/2097_pop
+
+
+

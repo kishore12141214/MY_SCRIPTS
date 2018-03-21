@@ -1,0 +1,867 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo rm -r /var/lib/dpkg/lock
+    4  sudo apt-get upgrade
+    5  cd
+    6  cd ..
+    7  mkdir fuse
+    8  mkdir -p fusr
+    9  clear
+   10  cd ../../
+   11  cd ../
+   12  cd ..
+   13  cd
+   14  cd ..
+   15  cd ../
+   16  ping 192.168.1.1
+   17  cat abhinav 
+   18  cat > abhinav
+   19  cd /etc/apt
+   20  ls
+   21  mkdir abhinav
+   22  lsb_ release -a 
+   23  lsb _ release -a
+   24  lsb_ relese -a 
+   25  lsb_ release -a
+   26  lsb_release -a
+   27  lsb_relesae -a
+   28  lsb_release -a
+   29  ps -ef | grep -i virtual 
+   30  df -h
+   31  free -m
+   32  vagrant 
+   33  ls - ltr
+   34  ls - ltra
+   35  ls -ltra
+   36  cd
+   37  pwd
+   38  whoami
+   39  ls -ltra
+   40  cd
+   41  pwd
+   42  man wget
+   43  ls
+   44  cd vm
+   45  cd /
+   46  ls
+   47  cd vm
+   48  cd 
+   49  lks
+   50  cd Downloads/
+   51  ls
+   52  cd vm
+   53  vi Vagrantfile 
+   54  sudo apt-get -y install gcc make linux-headers-$(uname -r) dkms
+   55  https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+   56  sudo apt-get -y install gcc make linux-headers-$(uname -r) dkms
+   57  dpkg -l | grep virtualbox*
+   58  ps -elf | grep virtualbox
+   59  ps -elf | grep Vagrant
+   60  ps -elf 
+   61  apt purge virtualbox*
+   62  sudo apt purge virtualbox*
+   63  dpkg -l | grep virtualbox*
+   64  sudo apt purge virtualbox*
+   65  sudo apt purge remove virtualbox*
+   66  sudo dpkg -i ccd | grep virtualbox*
+   67  cd 
+   68  ls
+   69  cd Downloads/
+   70  ls
+   71  dpkg -i virtualbox-5.2_5.2.6-120293~Ubuntu~zesty_i386.deb `
+   72  apt purge virtual*
+   73  sudo apt purge virtual*
+   74  sudo apt-get -y install gcc make linux-headers-$(uname -r) dkms
+   75  cd ..
+   76  cd /etc/apt/sources.list.d/
+   77  cd ..
+   78  cat sources.list
+   79  https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+   80  ps -ef | grep virtualbox*
+   81  ps -ef | grep virtualbox
+   82  sudo apt-get update
+   83  sudo apt-get install virtualbox-5.2
+   84  sudo apt-get update
+   85  sudo apt-get install virtualbox-5.2
+   86  vagrant --version
+   87  sudo apt-get install virtualbox-5.2
+   88  apt purge virtualbox*
+   89  apt purge virtualbox
+   90  sudo apt purge virtualbox*
+   91  ps -elf | grep virtualbox*
+   92  top
+   93  ps -elf | grep virtualbox*
+   94  ltr 
+   95  ll
+   96  ls -l
+   97  ll
+   98  ls -ld
+   99  ls -d
+  100  ls 
+  101  ls -ld 
+  102  ls -l
+  103  ls -llls -ll
+  104  ls -ll
+  105  ll
+  106  ls -l | grep d
+  107  ls -l | grep ^d
+  108  cd 
+  109  ls
+  110  cd Downloads/
+  111  ls
+  112  rm virtualbox-5.2_5.2.6-120293~Ubuntu~zesty_i386.deb 
+  113  ls
+  114  apt remove virtualbox*
+  115  sudo apt remove virtualbox*
+  116  cd 
+  117  cd /etc/apt/
+  118  tail -5 sources.list
+  119  https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+  120  sudo apt-get -y install gcc make linux-headers-$(uname -r) dkms
+  121  history
+  122  sudo apt-get -y remove  gcc make linux-headers-$(uname -r) dkms
+  123  sudo apt-get -y install  gcc make linux-headers-$(uname -r) dkms
+  124  apt --fix-broken install gcc make linux-headers-$(uname -r) dkms
+  125  sudo apt --fix-broken install gcc make linux-headers-$(uname -r) dkms
+  126  sudo apt --fix-broken install
+  127  history
+  128  sudo apt-get -y install gcc make linux-headers-$(uname -r) dkms
+  129  https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+  130  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+  131  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+  132  sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -sc) contrib" >> /etc/apt/sources.list'
+  133  tail /etc/apt/sources.list
+  134  sudo apt-get update
+  135  sudo apt-get install virtualbox-5.2
+  136  vBoxmanager -v
+  137  vBoxManager -v
+  138  VBoxManager -v
+  139  VBoxManage -v
+  140  cd 
+  141  cd /
+  142  ls
+  143  cd /
+  144  ls
+  145  cd 
+  146  ls
+  147  cd Down
+  148  cd Downloads/
+  149  ls
+  150  cd vm
+  151  ls
+  152  vi Vagrantfile 
+  153  service is-enabled finger
+  154  service is-enabled NetworkManager
+  155  service is-enabled Networ*
+  156  vi Vagrantfile 
+  157  service is-enabled ngnix
+  158  service is-enabled nginx
+  159  systemctl is-enabled nginx
+  160  systemctl status nginx
+  161  service status nginx
+  162  vi Vagrantfile 
+  163  apt-get install vim
+  164  sudo apt-get install vim
+  165  vi Vagrantfile 
+  166  vagrant --version
+  167  VBoxmanager -v
+  168  VBoxManager -v
+  169  vBoxmanager -v
+  170  vBoxmanage -v
+  171  VBoxmanage -v
+  172  VBoxManage -v
+  173  ls
+  174  vagrant up
+  175  vagrant ssh
+  176  startvm
+  177  startvm --type
+  178  init 0
+  179  init 6
+  180  cd vm
+  181  cd Downloads/
+  182  ls
+  183  cd vm/
+  184  ls
+  185  vagrant up
+  186  vagrant ssh
+  187  ls
+  188  cd 
+  189  ls
+  190  cd /
+  191  ls
+  192  cd Download
+  193  cd Downloads
+  194  cd
+  195  cd Downloads
+  196  ls
+  197  cd vm
+  198  ls
+  199  vi Vagrantfile 
+  200  vagrant ssh
+  201  cd /etc
+  202  ls
+  203  ls -l | greop ^d
+  204  ls -l | grep ^d
+  205  vi Vagrantfile 
+  206  cd Downloads
+  207  cd 
+  208  cd Downloads/
+  209  ls
+  210  cd vm/
+  211  ls
+  212  vi Vagrantfile 
+  213  vas
+  214  vagrant ssh
+  215  cd /etc
+  216  mkdir muni
+  217  sudo mkdir muni
+  218  ll
+  219  ls -l | grep ^d
+  220  cd 
+  221  vagrant ssh
+  222  cd Downloads/
+  223  ls
+  224  cd vm/
+  225  ls
+  226  vagrant ssh
+  227  cd /etc/muni
+  228  ls
+  229  cd 
+  230  cd Downloads/
+  231  ls
+  232  cd vm/
+  233  ls
+  234  vi Vagrantfile 
+  235  cd
+  236  mkdir -p /home/devops/data
+  237  cd /home/devops/data/
+  238  cd
+  239  cd Desktop/
+  240  ls
+  241  cd 
+  242  cd Downloads/
+  243  ls
+  244  cd vm/
+  245  ls
+  246  vagrant reload
+  247  mkdir muni
+  248  ls
+  249  exit
+  250  vim Vagrantfile
+  251  ls
+  252  exit
+  253  ls
+  254  pwd
+  255  cd
+  256  ls
+  257  vim backup.sh
+  258  ./backup.sh
+  259  chmod 777 backup.sh 
+  260  ./backup.sh
+  261  vim backup.sh
+  262  vi muni
+  263  vi kishore
+  264  vi kiss
+  265  cmp muni kiss
+  266  dif muni kiss
+  267  diff muni kiss
+  268  vi -o muni kiss
+  269  diff muni kiss
+  270  cmp muni kiss
+  271  vi -o muni kiss
+  272  pf kiss
+  273  pr kiss
+  274  pr kissq!
+  275  ls /-R | grep vagrant
+  276  ls /-R 
+  277  ls / -R 
+  278  ;ls / -R / grep vagrant
+  279  ls / -R / grep vagrant
+  280  ls / -R | wc -l
+  281  ps -ag
+  282  ps
+  283  ps -elf
+  284  cat < muni
+  285  cat > muni
+  286  cat muni
+  287  cat muni 
+  288  vi muni 
+  289  cat kiss
+  290  cat 
+  291  cat < kiss
+  292  pr kiss
+  293  who
+  294  whoami
+  295  who am i
+  296  who ami
+  297  who | wc -l
+  298  sudo -i
+  299  ostype
+  300  OSTYPE
+  301  BASH
+  302  echo $USERNAME
+  303  echo $home
+  304  echo $HOME
+  305  sudo -i
+  306  echo $SHELL
+  307  echo $PATH
+  308  echo $LOGNAME
+  309  echo $vech
+  310  echo $VECH
+  311  X=10
+  312  echo$x
+  313  vi mm
+  314  mv mm mm.sh
+  315  ./mm.sh
+  316  chmod 777 mm.sh 
+  317  ./mm.sh
+  318  vi mm
+  319  vi mm.sh 
+  320  ./mm.sh 
+  321  vi mm.sh 
+  322  ./mm.sh 
+  323  q!
+  324  vi mm.sh 
+  325  ./mm.sh 
+  326  vi mm.sh 
+  327  ./mm.sh 
+  328  vi mm.sh 
+  329  ./mm.sh 
+  330  echo 6+4
+  331  vi mm.sh 
+  332  ./mm.sh 
+  333  vi mm.sh 
+  334  ./mm.sh 
+  335  q!
+  336  vi mm.sh 
+  337  ./mm.sh 
+  338  vi mm.sh 
+  339  ./mm.sh 
+  340  vi mm.sh 
+  341  ./mm.sh 
+  342  expr 5 + 5
+  343  ./mm.sh 
+  344  vi mm.sh 
+  345  ./mm.sh 
+  346  vi mm.sh 
+  347  ./mm.sh 
+  348  vi mm.sh 
+  349  ./mm.sh 
+  350  vi mm.sh 
+  351  ./mm.sh 
+  352  vi mm.sh 
+  353  ./mm.sh 
+  354  vi mm.sh 
+  355  vi kish.sh
+  356  ./kish.sh
+  357  ll
+  358  chmod 700 kish.sh
+  359  ./kish.sh
+  360  vi kish.sh
+  361  ./kish.sh
+  362  vi kish.sh
+  363  ./kish.sh
+  364  vi kish.sh
+  365  ./kish.sh
+  366  vi kish.sh 
+  367  ./kish.sh
+  368  vi kish.sh 
+  369  ./kish.sh
+  370  vi kish.sh 
+  371  ./kish.sh
+  372  vi kish.sh 
+  373  ./kish.sh
+  374  vi kish.sh 
+  375  ./kish.sh
+  376  vi kish.sh 
+  377  ./kish.sh
+  378  vi kish.sh 
+  379  ./kish.sh
+  380  vi kish.sh 
+  381  ./kish.sh
+  382  vi kish.sh 
+  383  ./kish.sh
+  384  x=10
+  385  y=30
+  386  expr x+y
+  387  expr x + y
+  388  expr 5 + 6
+  389  vi kish.sh 
+  390  ./kish.sh 
+  391  vi kish.sh 
+  392  ./kish.sh 
+  393  expr 9+8
+  394  expr 9 + 8
+  395  vi kish.sh 
+  396  ./kish.sh 
+  397  vi kish.sh 
+  398  ./kish.sh 
+  399  ls -ltr kish.sh 
+  400  vi kish.sh 
+  401  ./kish.sh 
+  402  vi kish.sh 
+  403  ./kish.sh 
+  404  vi kish.sh 
+  405  ./kish.sh 
+  406  vi kish.sh 
+  407  ./kish.sh 
+  408  ls
+  409  pr first 
+  410  init 0
+  411  cd Downloads/
+  412  ls
+  413  java -version
+  414  sudo apt-get install default-jdk
+  415  curl -O http://apache.mirrors.ionfish.org/tomcat/tomcat-8/v8.5.5/bin/apache-tomcat-8.5.5.tar.gz
+  416  apt-get install curl
+  417  sudo apt-get install curl
+  418  curl -O http://apache.mirrors.ionfish.org/tomcat/tomcat-8/v8.5.5/bin/apache-tomcat-8.5.5.tar.gz
+  419  wget http://apache.mirrors.ionfish.org/tomcat/tomcat-8/v8.5.5/bin/apache-tomcat-8.5.5.tar.gz
+  420  ls
+  421  tar -xvf apache-tomcat-8.5.5.tar.gz 
+  422  mkdir apache
+  423  sudo tar -xvf apache-tomcat-8.5.5.tar.gz  tomcat
+  424  sudo tar -xvf apache-tomcat-8.5.5.tar.gz  -c tomcat
+  425  tar --help
+  426  init 0
+  427  ls
+  428  tar -xvf apache-tomcat-8.5.5.tar.gz 
+  429  wget http://www-eu.apache.org/dist/tomcat/tomcat-7/v7.0.85/bin/apache-tomcat-7.0.85.tar.gz
+  430  java -verswion
+  431  java -version
+  432  mkdir tomcat
+  433  ls
+  434  tar -xvf apache-tomcat-7.0.85.tar.gz -c tomcat/
+  435  tar -xvf apache-tomcat-7.0.85.tar.gz tomcat/
+  436  tar -xvf apache-tomcat-7.0.85.tar.gz 
+  437  ls
+  438  mv -rvf tomcat/
+  439  mv -vf tomcat/
+  440  mv apache-tomcat-7.0.85 tomcat/
+  441  cd tomcat/
+  442  ls
+  443  dpkg -i apache-tomcat-7.0.85/
+  444  sudo dpkg -i apache-tomcat-7.0.85/
+  445  ls
+  446  apt-get install apache-tomcat-7.*
+  447  sudo apt-get install apache-tomcat-7.*
+  448  sudo dpkg -i apache-tomcat-7.0.85/
+  449  sudo dpkg -i apache-tomcat-7.0.85
+  450  ls
+  451  cd apache-tomcat-7.0.85/
+  452  ls
+  453  cd bin
+  454  ls
+  455  sh startup.sh 
+  456  ifconfig
+  457  ls
+  458  cd ..
+  459  ls
+  460  cd conf/
+  461  ls
+  462  vi server.xml 
+  463  cd ..
+  464  ls
+  465  cd bin/
+  466  ls
+  467  ./startup.sh 
+  468  ls
+  469  ./shutdown.sh 
+  470  ./startup.sh 
+  471  cd 
+  472  ls
+  473  system status mysql
+  474  systemctl status mysql
+  475  mysql -u root -p
+  476  mysql -u root -p 
+  477  mysql -u root -p
+  478  ls
+  479  cd Downloads/
+  480  ls
+  481  sudo apt-get install build-essential linux-headers-$(uname -r)
+  482  cd Downloads/
+  483  lsd
+  484  ls
+  485  cat VMware-Player-14.1.1-7528167.x86_64.bundle 
+  486  cd 
+  487  mysql -u root -p 
+  488  mysql -u root -p 
+  489  cd
+  490  mysql -u root -p
+  491  mysql -r root -p
+  492  mysql -u root -p
+  493  ifconfig
+  494  mysql -u kishore -p
+  495  mysql -u root -p
+  496  mysqldump -u root -p muni > db.backup.sql
+  497  ls
+  498  vi db.backup.sql 
+  499  mysql -r root -p
+  500  mysql -u root -p
+  501  mysql -u root -p 
+  502  mysql -u root -p muni > backup.sql
+  503  mysql -u root -p mysql > backup.sql
+  504  ls
+  505  mysql -u root -p mysql < backup.sql
+  506  mysql -u root -p 
+  507  init 0
+  508  cd
+  509  cd 
+  510  ls
+  511  vi shell
+  512  mv shell shell.sh
+  513  ls
+  514  chmod 777 shell.sh 
+  515  ls
+  516  ./shell.sh 
+  517  vi shell.sh 
+  518  ./shell.sh 
+  519  ls
+  520  vi shell.sh 
+  521  cd ..
+  522  vi shell.sh 
+  523  ./shell.sh 
+  524  ls
+  525  cd hi1/
+  526  ls
+  527  cd ..
+  528  ls
+  529  vi shell.sh 
+  530  ./shell.sh 
+  531  ls
+  532  vi shell.sh 
+  533  ./shell.sh 
+  534  ls
+  535  cd hi12/
+  536  ls
+  537  touch muni 
+  538  ls
+  539  cat muni
+  540  pr muni
+  541  vi muni
+  542  cat muni 
+  543  pr muni 
+  544  cd 
+  545  cd Downloads/
+  546  ls
+  547  ssh -i "Robomatichs.pem" ec2-user@ec2-18.217.222.244
+  548  ssh -i "Robomatichs.pem" centos@18.217.222.244
+  549  ls
+  550  ll
+  551  chmod 777 Robomatichs.pem 
+  552  ssh -i "Robomatichs.pem" centos@18.217.222.244
+  553  ll
+  554  ssh -i "Robomatichs.pem" centos@18.217.222.244
+  555  chmod 400 Robomatichs.pem 
+  556  ll
+  557  ssh -i "Robomatichs.pem" centos@18.217.222.244
+  558  ls
+  559  chmod 400 key1.pem 
+  560  ssh -i "key1.pem" ec2-user@ec2-18-222-5-5.us-east-2.compute.amazonaws.com
+  561  ls
+  562  cd keys/
+  563  ls
+  564  cd 
+  565  cd Downloads/
+  566  ls
+  567  cd 
+  568  ls
+  569  cd 
+  570  ls
+  571  cd Downloads/
+  572  ls
+  573  ssh -i "key1.pem" ec2-user@ec2-18-222-5-5.us-east-2.compute.amazonaws.com
+  574  ping 18-222-5-5
+  575  ssh -i "key1.pem" ec2-user@ec2-18-222-5-5.us-east-2.compute.amazonaws.com
+  576  ssh -i "key1.pem" ec2-user@ec2-18-219-239-58.us-east-2.compute.amazonaws.com
+  577  ll
+  578  ssh -i key1.pem centos@18.219.239.58
+  579  ll
+  580  ssh -i "kishore1214.pem" ec2-user@ec2-18-217-248-121.us-east-2.compute.amazonaws.com
+  581  ll
+  582  chmod 400 kishore1214.pem 
+  583  ssh -i "kishore1214.pem" ec2-user@ec2-18-217-248-121.us-east-2.compute.amazonaws.com
+  584  cd Downloads/
+  585  ssh -i "kishore1214.pem" ec2-user@ec2-18-217-248-121.us-east-2.compute.amazonaws.com
+  586  bc
+  587  dc
+  588  ls -l /bin
+  589  cd /bin/
+  590  ll
+  591  cd 
+  592  ls
+  593  cat users.sh 
+  594  ./user.sh
+  595  ./users.sh
+  596  sudo ./users.sh
+  597  sh ./users.sh
+  598  sh users.sh
+  599  sudo -i
+  600  cd 
+  601  ls
+  602  apt update -y
+  603  sudo -i
+  604  cd tr
+  605  ls
+  606  cd /
+  607  ls
+  608  cd 
+  609  ls
+  610  mkdir training
+  611  cd training/
+  612  mkdir mybash script
+  613  ls
+  614  rm script/
+  615  cd  script/
+  616  ls
+  617  vi print.sh
+  618  ll
+  619  chmod 700 print.sh 
+  620  ./print.sh 
+  621  vi print.sh
+  622  vi installingapache2.sh 
+  623  ./ins
+  624  ls
+  625  chmod 700 installingapache2.sh 
+  626  ls
+  627  ./installingapache2.sh 
+  628  vi installingapache2.sh 
+  629  ./installingapache2.sh 
+  630  [
+  631  CD 
+  632  CD
+  633  LSD
+  634  LS
+  635  ls
+  636  \ls
+  637  l
+  638  ls
+  639  cd training/
+  640  ls
+  641  cd script/
+  642  ls
+  643  mkdir dir1 der2
+  644  ls
+  645  rm der2/
+  646  rm -r der2/
+  647  ls
+  648  mkdir dir2
+  649  cd dir1/
+  650  ls
+  651  touch myfile
+  652  ls
+  653  cd ..
+  654  ls
+  655  vi copyarg1.sh
+  656  chmod 700 copyarg1.sh 
+  657  ls
+  658  ./copyarg1.sh 
+  659  vi copyarg1.sh
+  660  ./copyarg1.sh 
+  661  vi copyarg1.sh
+  662  ./copyarg1.sh 
+  663  vi copyarg1.sh
+  664  cd dir2/
+  665  ls
+  666  cd ..
+  667  mkdir kishore reddy
+  668  touch /reddy/kishore
+  669  touch /reddy/k
+  670  ls
+  671  touch reddy/1
+  672  ./copyarg1.sh 
+  673  cd reddy
+  674  ls
+  675  cd kishore
+  676  ls
+  677  cd ..
+  678  ls
+  679  cd kishore/
+  680  ls
+  681  cd ..
+  682  ls
+  683  $#
+  684  cd 
+  685  ls
+  686  mkdir myscript
+  687  cd myscript/
+  688  ls
+  689  cd 
+  690  cd training/
+  691  ls
+  692  cd script/
+  693  ls
+  694  vi installingapache2.sh 
+  695  ./installingapache2.sh 
+  696  cd /tmp/devops/
+  697  ls
+  698  cat bashscript 
+  699  cd ..
+  700  cd 
+  701  cd training/
+  702  ls
+  703  cd script/
+  704  ls
+  705  vi copyarg1.sh 
+  706  ./copyarg1.sh dir1/myfile dir2/
+  707  ls
+  708  rm kishore/ reddy/
+  709  rm -fvr kishore/ reddy/
+  710  ls
+  711  systemctl status apache2
+  712  systemctl is-active apache2
+  713  systemctl is-enabled apache2
+  714  systemctl is-desabled apache2
+  715  l
+  716  touch installnginx.sh
+  717  cp -p installingapache2.sh installnginx.sh 
+  718  cat installnginx.sh 
+  719  vi installnginx.sh 
+  720  vi installingapache2.sh 
+  721  ./installingapache2.sh 
+  722  systemctl is-active apache2
+  723  vi installingapache2.sh 
+  724  ./installingapache2.sh 
+  725  vi installingapache2.sh 
+  726  ./installingapache2.sh 
+  727  systemctl is-active apache2
+  728  systemctl is-enable apache2
+  729  systemctl is-enabled apache2
+  730  ls
+  731  ll
+  732  vi stopnginx.sh
+  733  ./stopnginx.sh nginx
+  734  chmod 700 stopnginx.sh 
+  735  ./stopnginx.sh nginx
+  736  vi stopnginx.sh
+  737  ./stopnginx.sh nginx
+  738  ./installingapache2.sh 
+  739  vi installingapache2.sh 
+  740  vi stopnginx.sh
+  741  vi installnginx.sh 
+  742  vi stopnginx.sh
+  743  sh stopnginx.sh nginx
+  744  vi installnginx.sh 
+  745  systemctl is-active nginx
+  746  vi stopnginx.sh
+  747  sh stopnginx.sh nginx
+  748  vi stopnginx.sh
+  749  sh stopnginx.sh nginx
+  750  systemctl is-active nginx
+  751  systemctl is-enabled nginx
+  752  ls
+  753  mkdir vagrant
+  754  cd vagrant/
+  755  ls
+  756  vagrant init
+  757  ls
+  758  vi Vagrantfile 
+  759  ls
+  760  cd ..
+  761  ls
+  762  pwd
+  763  cd vagrant/
+  764  vagrant up /home/devops/training/script
+  765  vagrant up /home/devops/training/script/installnginx.sh 
+  766  ls
+  767  vi Vagrantfile 
+  768  ifconfig
+  769  vi Vagrantfile 
+  770  cd ..
+  771  ls
+  772  vi Vagrantfile 
+  773  cd vagrant/
+  774  ls
+  775  vi Vagrantfile 
+  776  Vagrantfile up
+  777  vagrant up
+  778  vi Vagrantfile
+  779  vagrant up
+  780  vagrant --provision reload
+  781  vagrant --provision 
+  782  vagrant reload --provision
+  783  vi Vagrantfile
+  784  vagrant reload --provision
+  785  vi Vagrantfile
+  786  vagrant reload --provision
+  787  vi Vagrantfile
+  788  vagrant reload --provision
+  789  vi Vagrantfile
+  790  vagrant reload --provision
+  791  vi Vagrantfile
+  792  vagrant reload --provision
+  793  vagrant up --provision --debug &> debug_log
+  794  ls
+  795  vi debug_log 
+  796  ERROR vagrant: /opt/vagrant/embedded/gems/gems/vagrant-2.0.2/plugins/communicators/ssh/communicator.rb:257:in `execute'
+  797  ERROR vagrant: /opt/vagrant/embedded/gems/gems/vagrant-2.0.2/plugins/communicators/ssh/communicator.rb:257:in
+  798  cat /opt/vagrant/embedded/gems/gems/vagrant-2.0.2/plugins/communicators/ssh/communicator.rb:257:in
+  799  cd /opt/vagrant/embedded/gems/gems/vagrant-2.0.2/plugins/communicators/ssh/communicator.rb:257:in
+  800  ls
+  801  vi Vagrantfile 
+  802  vagrant up --provision
+  803  vi Vagrantfile 
+  804  vagrant up --provision
+  805  ll
+  806  vi Vagrantfile 
+  807  telnet 192.168.1.67 22
+  808  vi Vagrantfile 
+  809  ping 192.168.1.67
+  810  vi /etc/ssh/ssh_config 
+  811  sudo vi /etc/ssh/ssh_config 
+  812  telnet 192.168.1.67 22
+  813  vagrant reload --provision
+  814  traceroute google.com
+  815  ifconfig
+  816  cat /etc/hosts
+  817  ping
+  818  hostname
+  819  hostname -i
+  820  ping 127.0.1.1
+  821  ifconfig
+  822  netstat 
+  823  vi Vagrantfile 
+  824  init 0
+  825  cd 
+  826  ls
+  827  cd training/
+  828  ls
+  829  rm mybash/
+  830  rmdir  mybash/
+  831  ls
+  832  \cd script/
+  833  ls
+  834  cd vagrant/
+  835  ls
+  836  history
+  837  ls
+  838  vi Vagrantfile 
+  839  cd 
+  840  ll
+  841  ls -a
+  842  vi .bashrc 
+  843  echo $editor
+  844  vi .bashrc 
+  845  echo $editor
+  846  ls
+  847  cd training/script/
+  848  ls vagrant/
+  849  ls
+  850  cd vagrant/
+  851  ls
+  852  vi Vagrantfile 
+  853  MYVAR='HI THIS IS KISHORE' 
+  854  echo $MYVAR
+  855  my="myself reddy"
+  856  echo $my
+  857  echo $MYVAR
+  858  echo "hello $MYVAr"
+  859  echo "hello $MYVAR"
+  860  echo "hello /$MYVAR"
+  861  echo "hello \$MYVAR"
+  862  echo 'hello $MYVAR'
+  863  cd 
+  864  ls
+  865  cd training/script/
+  866  history
+  867  history >> historyforsinglequetaion 

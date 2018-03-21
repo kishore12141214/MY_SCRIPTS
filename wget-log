@@ -1,0 +1,6 @@
+--2018-03-16 17:19:20--  http://,/
+Resolving , (,)... failed: Name or service not known.
+wget: unable to resolve host address ‘,’
+--2018-03-16 17:19:30--  http://path/
+Resolving path (path)... failed: Name or service not known.
+wget: unable to resolve host address ‘path’
